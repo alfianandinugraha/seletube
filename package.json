@@ -1,0 +1,14 @@
+{
+  "name": "seletube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
