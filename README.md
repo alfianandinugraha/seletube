@@ -1,10 +1,10 @@
-# Seletube 📺
+i# Seletube 📺
 
 _YouTube Playlist Downloader_. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.
 
 ### Warning 💀
 
-This app is only for learning purposes. I create this app because I want to learn Selenium. I tried to write the input form manually, so I learn the Selenium 4.
+This app is only for learning purposes. I create this app because I want to learn Selenium. I tired to write the input form manually, so I learn the Selenium 4.
 
 ### How To Run 🚀
 
