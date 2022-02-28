@@ -1,4 +1,4 @@
-i# Seletube 📺
+# Seletube 📺
 
 _YouTube Playlist Downloader_. It is powered by https://loader.to/ with Selenium 4 and Microsoft Edge.
 
